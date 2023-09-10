@@ -1,7 +1,7 @@
 <h1 align="center"> Timer Focus </h1>
 
 <p align="center">
-Um timer intuitivo com reprodutor de áudio e light/dark mode.<br/>
+Timer intuitivo com reprodutor de áudio e light/dark mode.<br/>
 </p>
 
 <p align="center">
